@@ -124,7 +124,7 @@
 .bet-button {
     width: 257px;
     height: 52px;
-    font-family: var(--f-main_font), Arial, sans-serif;
+    font-family: var(--f-main_font), sans-serif;
     font-size: 22px;
     text-transform: uppercase;
     color: var(--c-invert_text_color);

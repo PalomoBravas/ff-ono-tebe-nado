@@ -20,7 +20,7 @@ body {
   max-width: 1440px;
   margin: 0 auto;
 
-  font-family: var(--f-main_font), Arial, sans-serif;
+  font-family: var(--f-main_font), sans-serif;
 }
 
 h1,
