@@ -17,8 +17,10 @@
 
 body {
   min-width: 1100px;
-  margin: 0;
-  font-family: var(--f-main_font), sans-serif;
+  max-width: 1440px;
+  margin: 0 auto;
+
+  font-family: var(--f-main_font), Arial, sans-serif;
 }
 
 h1,
